@@ -11,16 +11,16 @@ export const StyledSearchFilter = styled.div`
 
   h2 {
     margin-bottom: 5px;
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
   }
 
   input {
     padding: 5px;
-    font-size: 16px;
+    font-size: 15px;
     padding: 5px;
-    font-size: 16px;
-    width: 300px;
+    font-size: 15px;
+    width: 250px;
     margin: auto;
   }
 `;

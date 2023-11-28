@@ -17,10 +17,6 @@ export const StyledContactItem = styled.li`
   padding: 10px;
   border: 1px solid #ccc;
   margin-bottom: 10px;
-
-  &:hover {
-    background-color: #f0f0f0;
-  }
 `;
 
 export const StyledDeleteButton = styled.button`
@@ -29,7 +25,6 @@ export const StyledDeleteButton = styled.button`
   padding: 5px 10px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
 
   &:hover {
     background-color: #d63431;
